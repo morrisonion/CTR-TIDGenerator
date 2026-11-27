@@ -1,6 +1,6 @@
 $(document).ready(function() {
-  var nusUrl = "https://morrisonion.github.io/TID-API/data/nus-titles.json";
-  var udbUrl = "https://morrisonion.github.io/TID-API/data/udb-titles.json";
+  var nusUrl = "https://morrisonion.github.io/TID-DB/data/nus-titles.json";
+  var udbUrl = "https://morrisonion.github.io/TID-DB/data/udb-titles.json";
 
   var loadedStatus = 0;
   var completelyLoaded = 1 | 2;
